@@ -1,6 +1,6 @@
 print "Welcome to the Pig-Latin translator!"
 
-#Like the title says, translate your text into Pig-Latin. Made around 8/28/2016. Have fun!
+#Like the title says, translate your text into Pig-Latin. Made 8/28/2016. Have fun!
 
 pyg = 'ay'
 
