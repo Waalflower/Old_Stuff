@@ -1,4 +1,4 @@
-# (1) Make a list in Python.
+# (1) Make a list in Python. 
 
 motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
